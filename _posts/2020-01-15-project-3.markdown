@@ -11,6 +11,6 @@ project-date: January 2020
 client: Github
 category: Java
 description: A personal website made with Jekyll and hosted using GitHub Pages.
-link: https://github.com/qfaizaan/qfaizaan.github.io
+link: https://github.com/qfaizaan/FM-Radio
 
 ---
