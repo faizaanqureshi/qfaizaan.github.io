@@ -1,0 +1,16 @@
+---
+title: FM Radio
+subtitle: Desktop Application
+layout: default
+modal-id: 3
+date: 2020-01-15
+img: fm_radio.png
+thumbnail: fm_radio.png
+alt: image-alt
+project-date: January 2020
+client: Github
+category: Java
+description: A personal website made with Jekyll and hosted using GitHub Pages.
+link: https://github.com/qfaizaan/qfaizaan.github.io
+
+---
