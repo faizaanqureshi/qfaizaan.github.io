@@ -1,6 +1,6 @@
 ---
 title: FM Radio
-subtitle: Desktop Application
+subtitle: Arduino Code
 layout: default
 modal-id: 3
 date: 2020-01-15
