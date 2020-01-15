@@ -1,0 +1,16 @@
+---
+title: Astroworld (macOS)
+subtitle: Desktop Application
+layout: default
+modal-id: 2
+date: 2020-01-15
+img: astroworld_apple.png
+thumbnail: astroworld_apple.png
+alt: image-alt
+project-date: January 2020
+client: Github
+category: Java
+description: A music jukebox application based on the Hip-Hop artist Travis Scott. Made for macOS.
+link: https://github.com/qfaizaan/Astroworld-macOS-
+
+---
