@@ -9,8 +9,8 @@ thumbnail: fm_radio.png
 alt: image-alt
 project-date: January 2020
 client: Github
-category: Java
-description: A personal website made with Jekyll and hosted using GitHub Pages.
+category: Arduino/C++
+description: Source code and schematic/part list for frequency modulate radio using Arduino.
 link: https://github.com/qfaizaan/FM-Radio
 
 ---
