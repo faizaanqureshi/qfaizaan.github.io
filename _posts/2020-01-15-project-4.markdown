@@ -1,0 +1,16 @@
+---
+title: Personal Site
+subtitle: Jekyll Site
+layout: default
+modal-id: 4
+date: 2020-01-15
+img: website.png
+thumbnail: website.png
+alt: image-alt
+project-date: January 2020
+client: Github
+category: Jekyll/Ruby
+description: Source code for this site.
+link: https://github.com/qfaizaan/FM-Radio
+
+---
