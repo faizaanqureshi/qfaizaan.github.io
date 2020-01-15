@@ -1,6 +1,6 @@
 ---
-title: Personal Site
-subtitle: Jekyll Site
+title: Jekyll Site
+subtitle: A personal website made with Jekyll and hosted using GitHub Pages.
 layout: default
 modal-id: 4
 date: 2020-01-15
@@ -11,6 +11,6 @@ project-date: January 2020
 client: Github
 category: Jekyll/Ruby
 description: Source code for this site.
-link: https://github.com/qfaizaan/FM-Radio
+link: https://github.com/qfaizaan/qfaizaan.github.io
 
 ---
