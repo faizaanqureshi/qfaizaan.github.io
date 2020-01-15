@@ -1,0 +1,36 @@
+url: https://faizaan.github.io
+baseurl: ''
+
+# Site settings
+title: Faizaan A. Qureshi
+email: qfaizaan@gmail.com
+description: "Faizaan A. Qureshi | High School student and computer enthusiast from Milton, Canada"
+
+# Team names, titles and social links
+people:
+-
+- name: Faizaan Qureshi
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/faizaan-qureshi-193b6319b/
+    - title: github
+      url: https://github.com/qfaizaan/
+    - title: instagram
+      url: https://www.instagram.com/faizaanqureshi_/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/faizaan-qureshi-193b6319b/
+  - title: github
+    url: https://github.com/qfaizaan/
+  - title: instagram
+    url: https://www.instagram.com/faizaanqureshi_/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+- jekyll-seo-tag
