@@ -10,6 +10,7 @@ description: "Faizaan A. Qureshi | High School student and computer enthusiast f
 people:
 -
 - name: Faizaan Qureshi
+  pic: 1
   position: Developer
   social:
     - title: linkedin
