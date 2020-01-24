@@ -1,0 +1,16 @@
+---
+title: Bright Mark
+subtitle: Python Application
+layout: default
+modal-id: 5
+date: 2020-01-23
+img: brightmark.png
+thumbnail: brightmark.png
+alt: image-alt
+project-date: January 2020
+client: Github
+category: Python
+description: A python application for inputting student grades.
+link: https://github.com/qfaizaan/Bright-Mark
+
+---
