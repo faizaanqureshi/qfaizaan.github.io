@@ -1,6 +1,6 @@
 ---
 title: Jekyll Site
-subtitle: A personal website made with Jekyll and hosted using GitHub Pages.
+subtitle: Jekyll Site.
 layout: default
 modal-id: 4
 date: 2020-01-15
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: January 2020
 client: Github
 category: Jekyll/Ruby
-description: Source code for this site.
+description: A personal website made with Jekyll and hosted using GitHub Pages.
 link: https://github.com/qfaizaan/qfaizaan.github.io
 
 ---
