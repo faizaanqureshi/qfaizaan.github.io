@@ -1,6 +1,6 @@
 ---
 title: Personal Website
-subtitle: Jekyll Site.
+subtitle: Jekyll Site
 layout: default
 modal-id: 4
 date: 2020-01-15
