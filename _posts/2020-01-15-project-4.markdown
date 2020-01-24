@@ -1,5 +1,5 @@
 ---
-title: Jekyll Site
+title: Personal Website
 subtitle: Jekyll Site.
 layout: default
 modal-id: 4
